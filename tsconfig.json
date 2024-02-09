@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "./scripts",
+    "rootDir": "./src",
+    "baseUrl": ".",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "noErrorTruncation": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
