@@ -2,7 +2,7 @@
 
 I recommend first having a look at [the PDF learning report](https://github.com/petercrona/o2fp/raw/main/report.pdf).
 
-A [demo](http://frontend-framework-from-scratch.s3-website.eu-central-1.amazonaws.com/) is available if you'd like to map the code to its effect. Note that it is hosted in a S3 bucket, thus, if you refresh the page, you'll get redirected to "index.html" by S3.
+A [demo](http://frontend-framework-from-scratch.s3-website.eu-central-1.amazonaws.com/) is available. Note that it is hosted in a S3 bucket, i.e. if you refresh the page, you'll get redirected to "index.html" by S3.
 
 ## Run
 
