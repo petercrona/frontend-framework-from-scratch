@@ -2,7 +2,7 @@ import { Properties } from "csstype";
 
 type Fn<T, U> = (input: T) => U;
 
-interface Flow {
+interface Pipe {
   (): never;
   <T>(value: T): T;
   <T, U>(value: T, fn1: Fn<T, U>): U;
@@ -80,9 +80,9 @@ interface Flow {
   ): D;
 }
 
-export const pipe: Flow = ((value: any, ...fns: Fn<any, any>[]) => {
+export const pipe: Pipe = ((value: any, ...fns: Fn<any, any>[]) => {
   return fns.reduce((result, fn) => fn(result), value);
-}) as Flow;
+}) as Pipe;
 
 export const id = <A>(x: A) => x;
 
