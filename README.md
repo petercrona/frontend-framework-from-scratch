@@ -1,6 +1,6 @@
 # frontend-framework-from-scratch
 
-I recommend first having a look at: [Download PDF learning report](report.pdf).
+I recommend first having a look at [the PDF learning report](report.pdf).
 
 ## Run
 
