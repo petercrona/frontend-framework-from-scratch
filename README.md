@@ -1,6 +1,6 @@
 # frontend-framework-from-scratch
 
-I recommend first having a look at [the PDF learning report](report.pdf).
+I recommend first having a look at [the PDF learning report](https://github.com/petercrona/o2fp/blob/main/report.pdf).
 
 ## Run
 
