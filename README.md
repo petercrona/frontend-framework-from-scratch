@@ -17,4 +17,4 @@ A [demo](http://frontend-framework-from-scratch.s3-website.eu-central-1.amazonaw
 
 ## o2fp
 
-If you want to try just the framework, it was extracted out in https://github.com/petercrona/o2fp and published on npm as "o2fp". So you can do "npm install o2fp" in your TypeScript projected.
+If you want to try just the framework, it was extracted out in https://github.com/petercrona/o2fp and published on npm as "o2fp". So you can do "npm install o2fp --save" in your TypeScript project.
